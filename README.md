@@ -20,4 +20,4 @@
 5. 最後依據「公司名稱」進行排序，將同一家公司開出的職缺放在一起，方便閱讀。
 
 ### 爬蟲結果如下：
-![image](https://github.com/PikoLab/WebCrawler_104Company/blob/master/WebCrawler_104company_result.jpg)
+![image](https://github.com/Ariel-Lin-Lin/WebCrawler_104Company/blob/master/WebCrawler_104company_result.jpg)
